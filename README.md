@@ -80,7 +80,7 @@ Let's connect and create something amazing together! 🚀</p>
 ###
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&locale=en" alt="anuragp22" />
+<img align="center" src="https://streak-stats.demolab.com/?user=anuragp22&theme=radical" alt="anuragp22" />
 </div>
 
 ###
