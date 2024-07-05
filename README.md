@@ -18,7 +18,9 @@
 
   🚀 Tech Enthusiast | Full-Stack Developer
 
-  🔍 About Me: I'm a prefinal year student at IIT Kharagpur with a strong passion for web development. I'm always on the lookout for new ways to innovate and improve my skills. I specialize in full-stack development, turning complex problems into seamless, user-friendly solutions.
+  🔍 About Me:
+  
+  I'm a prefinal year student at IIT Kharagpur with a strong passion for web development. I'm always on the lookout for new ways to innovate and improve my skills. I specialize in full-stack development, turning complex problems into seamless, user-friendly solutions.
 
   💡 What I Do:
 
