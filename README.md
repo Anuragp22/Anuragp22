@@ -141,15 +141,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragp22&show_icons=true&locale=en&layout=compact" alt="anuragp22" />
+</div>
 
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragp22&show_icons=true&locale=en&layout=compact" alt="anuragp22" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&locale=en" alt="anuragp22" />
-  <br>
   <img align="center" src="https://streak-stats.demolab.com/?user=anuragp22&theme=radical" alt="anuragp22" />
 </div>
 
