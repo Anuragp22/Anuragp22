@@ -1,10 +1,11 @@
+<!-- This section describes what I do. 
 <div align="center">
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxn0aq4j37LDyebiMGCoHp4nt4v6q92g-1Q&usqp=CAU"  />
 </div>
 
 ###
 
-<h1 align="center">”Set Your Heart Ablaze”</h1>
+<h1 align="center">”Set Your Heart Ablaze”</h1>-->
 
 ###
 
