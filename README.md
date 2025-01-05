@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=200&section=header&text=Hi,%20I'm%20Anurag%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -126,6 +124,3 @@ const anurag = {
   <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=120&section=footer" />
-</div>
