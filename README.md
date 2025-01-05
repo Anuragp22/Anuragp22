@@ -8,7 +8,7 @@
 
 <br/>
 
-<div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 2rem; border-radius: 16px; color: white; font-family: system-ui, -apple-system, sans-serif;">
+
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem;">
     <div style="flex: 1;">
       <h2 style="color: #3B82F6; font-size: 2rem; margin-bottom: 1.5rem;">💫 About Me</h2>
@@ -58,7 +58,7 @@
          alt="Animated illustration of a developer coding on a laptop with floating tech elements around" 
          style="height: 250px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
   </div>
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
