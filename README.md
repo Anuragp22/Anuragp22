@@ -1,27 +1,31 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=200&section=header&text=Hi,%20I'm%20Anurag%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+P;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;IIT+Kharagpur+Pre-final+Year" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragp22&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;IIT+Kharagpur+Pre-final+Year" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <img align="right" height="250" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
 
-### 🚀 About Me
+### 💫 About Me
 
-- 👨‍💻 Pre-final Year Student at **IIT Kharagpur**
-- 🌱 Currently exploring **Advanced System Design**
-- 🔭 Always open to collaborating on **innovative projects**
-- 💡 Passionate about creating scalable solutions
-- ⚡ Fun fact: I love exploring new technologies
-- 📫 Reach me at: **anuragp2003b@gmail.com**
+```javascript
+const anurag = {
+    education: "IIT Kharagpur - Pre-final Year",
+    interests: ["Full Stack Development", "System Design", "Open Source"],
+    currentlyLearning: "Advanced System Architecture",
+    askMeAbout: ["Web Dev", "Tech", "App Dev"],
+    funFact: "I love exploring new technologies!",
+    contact: "anuragp2003b@gmail.com"
+};
+```
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
@@ -37,10 +41,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-<details>
+<details open>
 <summary>📱 Frontend</summary>
+<br>
 <div align="center">
   
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -54,6 +59,7 @@
 
 <details>
 <summary>⚙️ Backend</summary>
+<br>
 <div align="center">
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,6 +72,7 @@
 
 <details>
 <summary>🗄️ Database</summary>
+<br>
 <div align="center">
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -78,6 +85,7 @@
 
 <details>
 <summary>🔧 Tools & Technologies</summary>
+<br>
 <div align="center">
   
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -90,44 +98,22 @@
 </div>
 </details>
 
-<details>
-<summary>👨‍💻 Languages</summary>
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-</div>
-</details>
-
 ---
 
-### 📈 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Anurag P github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&stroke=31347a&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-### 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragp22&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Profile Trophy"/>
-</div>
-
----
-
-### 🤝 Let's Connect!
+### 🚀 Let's Connect!
 
 <div align="center">
   <p>I'm always interested in collaborating on innovative projects and ideas. Feel free to reach out!</p>
@@ -135,9 +121,11 @@
   📧 **Email**: anuragp2003b@gmail.com<br>
   📱 **Phone**: +91 9121767554
   
-  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:22c55e&height=120&section=footer" />
 </div>
