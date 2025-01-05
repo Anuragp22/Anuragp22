@@ -1,100 +1,89 @@
-<!-- Modern Gradient Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,100:161B22&section=header&text=&fontSize=70&fontColor=fff&animation=twinkling&stroke=0000" />
+  <h1>Hi 👋, I'm Anurag P</h1>
+  <h3>A passionate Full-Stack Developer from IIT Kharagpur</h3>
   
-  <!-- Centered Name and Title -->
-  <div style="position: relative; top: -180px;">
-    <h1 align="center">
-      <b>ANURAG P</b>
-    </h1>
-    <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+IIT+Kharagpur;System+Design+%7C+Open+Source+Contributor" />
-    </div>
-  </div>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD2F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </p>
 </div>
 
-<!-- About Me Section with Developer Animation -->
-<div align="center">
-  <h2>🚀 About Me</h2>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
-  
-  <div align="left" width="400">
-    <ul style="list-style-type: none;">
-      <li>🎓 Pre-final Year Student at IIT Kharagpur</li>
-      <li>💻 Full Stack Developer passionate about scalable applications</li>
-      <li>🌐 Open Source Enthusiast & System Design Explorer</li>
-      <li>📚 Currently diving deep into Advanced System Architecture</li>
-      <li>🔧 Always experimenting with new technologies</li>
-    </ul>
-  </div>
-</div>
+---
 
-<br clear="both">
+### 🚀 About Me
 
-<!-- Tech Stack Section with Modern Layout -->
-<h2 align="center">💻 Technology Stack</h2>
+- 👨‍💻 Pre-final Year Student at **IIT Kharagpur**
+- 🌱 Currently exploring the depths of **Full-Stack Development**
+- 🔭 Always open to collaborating on **innovative projects**
+- 💡 Turning complex problems into elegant solutions
+- 📫 Reach me at: **anuragp2003b@gmail.com**
 
 <div align="center">
-  <!-- Frontend -->
-  <details open>
-    <summary><b>Frontend Development</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind" />
-  </details>
-
-  <!-- Backend -->
-  <details open>
-    <summary><b>Backend Development</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,go,express,django" />
-  </details>
-
-  <!-- Database & Tools -->
-  <details open>
-    <summary><b>Database & Tools</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git" />
-  </details>
-</div>
-
-<!-- GitHub Stats Section with Dark Theme -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark&hide_border=true&background=0D1117" />
-
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragp22&theme=react-dark&hide_border=true&bg_color=0D1117" />
-  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragp22/anuragp22/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragp22/anuragp22/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragp22/anuragp22/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<!-- Contact Section with Clean Design -->
-<h2 align="center">🤝 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anurag-p-33b370250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anuragp2003b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/anuragp22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=anuragp22&style=for-the-badge&color=0D1117" alt="Profile Views" />
 </div>
 
-<!-- Clean Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer" />
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragp22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=anuragp22&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 Feel free to reach out for collaborations or just a tech chat
+- 📧 Email: anuragp2003b@gmail.com
+- 📱 Phone: +91 9121767554
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
