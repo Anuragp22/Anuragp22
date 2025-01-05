@@ -1,156 +1,89 @@
-<!-- This section describes what I do. 
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxn0aq4j37LDyebiMGCoHp4nt4v6q92g-1Q&usqp=CAU"  />
-</div>
-
-###
-
-<h1 align="center">”Set Your Heart Ablaze”</h1>-->
-
-###
-
-<h3 align="left">👩‍💻  About Me :</h3>
-
-###
-
-<p align="left">
-  👨‍💻 Anurag P | Prefinal Year at IIT Kharagpur
-
-  🚀 Tech Enthusiast | Full-Stack Developer
-
-  🔍 About Me:
+  <h1>Hi 👋, I'm Anurag P</h1>
+  <h3>A passionate Full-Stack Developer from IIT Kharagpur</h3>
   
-  I'm a prefinal year student at IIT Kharagpur with a strong passion for web development. I'm always on the lookout for new ways to innovate and improve my skills. I specialize in full-stack development, turning complex problems into seamless, user-friendly solutions.
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD2F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </p>
+</div>
 
-  💡 What I Do:
+---
 
-  - Full-Stack Development: Building scalable and efficient web applications.
-  - Innovation: Diving deep into the startup ecosystem and working on cutting-edge projects.
-  - Collaboration: Open to partnering with fellow tech enthusiasts for project collaborations and idea sharing.
+### 🚀 About Me
 
-  📧 Contact:
-
-  - Email: anuragp2003b@gmail.com
-  - Phone: +91 9121767554
-
-  Let's connect and create something amazing together! 🚀
-</p>
-
-###
+- 👨‍💻 Pre-final Year Student at **IIT Kharagpur**
+- 🌱 Currently exploring the depths of **Full-Stack Development**
+- 🔭 Always open to collaborating on **innovative projects**
+- 💡 Turning complex problems into elegant solutions
+- 📫 Reach me at: **anuragp2003b@gmail.com**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anurag-p-33b370250/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:anuragp2622@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🛠 Languages and Tools:</h3>
-
-<div align="left" ">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none  !important;"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none !important;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <a href="mailto:anuragp2003b@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
+---
 
-###
-
-<h3 align="left">🔥 My Stats :</h3>
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragp22&show_icons=true&locale=en&layout=compact" alt="anuragp22" />
+
+#### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+#### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=anuragp22&theme=radical" alt="anuragp22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragp22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=anuragp22&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 Feel free to reach out for collaborations or just a tech chat
+- 📧 Email: anuragp2003b@gmail.com
+- 📱 Phone: +91 9121767554
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
