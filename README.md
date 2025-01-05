@@ -1,16 +1,12 @@
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation - Watch my contribution graph get eaten by a snake!" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;IIT+Kharagpur+Pre-final+Year" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;IIT+Kharagpur+Pre-final+Year" alt="Animated text showing: Full Stack Developer, Tech Enthusiast, Problem Solver, Open Source Contributor, IIT Kharagpur Pre-final Year" />
 </div>
 
 <br/>
-
-<img align="right" height="250" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" />
 
 <div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 2rem; border-radius: 16px; color: white; font-family: system-ui, -apple-system, sans-serif;">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem;">
@@ -59,20 +55,20 @@
     </div>
     
     <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-         alt="Coding Animation" 
+         alt="Animated illustration of a developer coding on a laptop with floating tech elements around" 
          style="height: 250px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
   </div>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Connect with Anurag"/>
   </a>
   <a href="mailto:anuragp2003b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - Send email to Anurag"/>
   </a>
   <a href="https://github.com/anuragp22">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Follow Anurag's projects"/>
   </a>
 </div>
 
@@ -140,12 +136,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Anurag P github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats - Anurag's coding activity and contributions" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages - Distribution of programming languages in Anurag's repositories" />
 </div>
 
 <div align="center">
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&stroke=31347a&background=0D1117" alt="GitHub Streak Stats" />
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&stroke=31347a&background=0D1117" alt="GitHub Streak - Anurag's continuous contribution statistics" />
 </div>
 
 ---
@@ -160,6 +156,5 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile View Counter - Number of visits to Anurag's GitHub profile" />
 </div>
-
