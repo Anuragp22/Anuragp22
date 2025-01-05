@@ -12,13 +12,11 @@
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem;">
     <div style="flex: 1;">
       <h2 style="color: #3B82F6; font-size: 2rem; margin-bottom: 1.5rem;">💫 About Me</h2>
-      
       <div style="background: rgba(59, 130, 246, 0.1); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #3B82F6;">
         <div style="margin-bottom: 1rem;">
           <span style="color: #3B82F6;">🎓 Education:</span>
           <span style="margin-left: 0.5rem;">IIT Kharagpur - Pre-final Year</span>
         </div>
-        
         <div style="margin-bottom: 1rem;">
           <span style="color: #3B82F6;">🚀 Interests:</span>
           <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
@@ -27,12 +25,10 @@
             <span style="background: rgba(59, 130, 246, 0.2); padding: 0.25rem 0.75rem; border-radius: 999px;">Open Source</span>
           </div>
         </div>
-        
         <div style="margin-bottom: 1rem;">
           <span style="color: #3B82F6;">📚 Currently Learning:</span>
           <span style="margin-left: 0.5rem;">Advanced System Architecture</span>
         </div>
-        
         <div style="margin-bottom: 1rem;">
           <span style="color: #3B82F6;">💬 Ask Me About:</span>
           <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
@@ -41,25 +37,20 @@
             <span style="background: rgba(59, 130, 246, 0.2); padding: 0.25rem 0.75rem; border-radius: 999px;">App Dev</span>
           </div>
         </div>
-        
         <div style="margin-bottom: 1rem;">
           <span style="color: #3B82F6;">⚡ Fun Fact:</span>
           <span style="margin-left: 0.5rem;">I love exploring new technologies!</span>
         </div>
-        
         <div>
           <span style="color: #3B82F6;">📫 Contact:</span>
           <span style="margin-left: 0.5rem;">anuragp2003b@gmail.com</span>
         </div>
       </div>
     </div>
-    
     <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
          alt="Animated illustration of a developer coding on a laptop with floating tech elements around" 
          style="height: 250px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
   </div>
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Connect with Anurag"/>
