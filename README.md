@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation - Watch my contribution graph get eaten by a snake!" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+       alt="GitHub Contribution Snake" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;IIT+Kharagpur+Pre-final+Year" alt="Animated text showing: Full Stack Developer, Tech Enthusiast, Problem Solver, Open Source Contributor, IIT Kharagpur Pre-final Year" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;IIT+Kharagpur+Pre-final+Year" 
+       alt="Typing animation: Full Stack Developer, Tech Enthusiast, Problem Solver, Open Source Contributor, IIT Kharagpur Pre-final Year" />
 </div>
 
-<br/>
+---
 
-
+<div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 2rem; border-radius: 16px; color: white; font-family: system-ui, -apple-system, sans-serif;">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem;">
     <div style="flex: 1;">
       <h2 style="color: #3B82F6; font-size: 2rem; margin-bottom: 1.5rem;">💫 About Me</h2>
@@ -48,9 +50,11 @@
       </div>
     </div>
     <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-         alt="Animated illustration of a developer coding on a laptop with floating tech elements around" 
+         alt="Developer coding animation" 
          style="height: 250px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);" />
   </div>
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-p-33b370250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Connect with Anurag"/>
@@ -127,12 +131,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats - Anurag's coding activity and contributions" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages - Distribution of programming languages in Anurag's repositories" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&stroke=31347a&background=0D1117" alt="GitHub Streak - Anurag's continuous contribution statistics" />
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&stroke=31347a&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -147,5 +151,5 @@
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile View Counter - Number of visits to Anurag's GitHub profile" />
+  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
