@@ -55,12 +55,16 @@ I'm a **Final Year Student** pursuing **B.Tech in Industrial & Systems Engineeri
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<a href="https://github.com/Anuragp22">
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Anuragp22">
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</a>
 
 <br/>
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragp22&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+<img width="55%" src="https://streak-stats.demolab.com?user=Anuragp22&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
 
 </div>
 
