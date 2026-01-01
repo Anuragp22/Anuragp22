@@ -1,83 +1,81 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-## Hey, I'm Anurag
-
-### About Me
-
-I'm a **Final Year Student** pursuing **B.Tech in Industrial & Systems Engineering** at **IIT Kharagpur**, passionate about building scalable backend systems and AI-powered applications.
-
-### Currently
-
-- **Software Engineering Intern** @ Seaker Oy
-- Shipping production backend infrastructure
-- Deep diving into AI/ML systems & LLM pipelines
-
----
-
-### Tech Stack
-
-**Languages**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat&logo=google&logoColor=white)
-
-**Databases & Storage**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### GitHub Stats
-
 <div align="center">
-
-<a href="https://github.com/Anuragp22">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Anuragp22">
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<img width="55%" src="https://streak-stats.demolab.com?user=Anuragp22&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
-
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
----
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragp2622/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragp2003b@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuragp22)
-
----
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+    Hey there! I'm Anurag
+  </h1>
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
+  <img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation"/>
+
+  <div align="left">
+    <h3>👨‍💻 About Me</h3>
+    <p>
+      I'm a <b>Pre-final Year Student</b> at <b>IIT Kharagpur</b>, passionate about creating elegant solutions to complex problems.
+    </p>
+  </div>
+  
+  <div align="left">
+    <h3>🚀 What I'm Up To</h3>
+    
+    > 🎓 Mastering Advanced System Architecture
+    > 💻 Building Full Stack Applications
+    > 🌟 Contributing to Open Source
+    > 🔍 Exploring New Technologies
+  </div>
+</div>
+
+<div align="left">
+  <h3>⚡ Tech Stack</h3>
+  
+  > **Frontend**  
+  > ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  > ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+  > ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  > ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  
+  > **Backend**  
+  > ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  > ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+  > ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+  
+  > **Database**  
+  > ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  > ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  > ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  
+  > **Tools**  
+  > ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  > ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  > ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  > ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+
+  <br/>
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&stroke=31347a&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="left">
+  <h3>📫 Let's Connect</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-p-33b370250/)
+  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragp2003b@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragp22)
+  
+  > 📧 **Email**: anuragp2003b@gmail.com  
+  > 📱 **Phone**: +91 9121767554
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
