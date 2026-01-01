@@ -4,24 +4,21 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-# Hey, I'm Anurag 👋
+## Hey, I'm Anurag
 
-
-### 👨‍💻 About Me
+### About Me
 
 I'm a **Final Year Student** pursuing **B.Tech in Industrial & Systems Engineering** at **IIT Kharagpur**, passionate about building scalable backend systems and AI-powered applications.
 
-### 🚀 What I'm Up To
+### Currently
 
-- 💼 Software Engineering Intern @ **Seaker Oy**
-- 🛠️ Building Production-Scale Backend Systems
-- 🤖 Exploring AI/ML Infrastructure & LLM Integration
-
-<br clear="both"/>
+- **Software Engineering Intern** @ Seaker Oy
+- Shipping production backend infrastructure
+- Deep diving into AI/ML systems & LLM pipelines
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 **Languages**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -54,28 +51,29 @@ I'm a **Final Year Student** pursuing **B.Tech in Industrial & Systems Engineeri
 
 ---
 
+### GitHub Stats
+
 <div align="center">
-  
-### 📊 GitHub Stats
 
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp22&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+<br/>
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragp22&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 
 </div>
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragp2622/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragp2003b@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragp22)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuragp22)
 
-> 📧 **Email**: anuragp2003b@gmail.com  
-> 📱 **Phone**: +91 9121767554
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
 </div>
