@@ -2,7 +2,9 @@
 
 # Anurag Pappula
 
-### IIT Kharagpur · Full-Stack Engineering
+*Recent graduate, IIT Kharagpur*
+
+### Software Engineer · Open Source
 
 <p>
 <a href="https://www.linkedin.com/in/anuragp2622"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
