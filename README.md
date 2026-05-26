@@ -1,62 +1,28 @@
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
+## Hi, I'm Anurag
 
-<div align="center">
-  <h1>Hey there! I'm Anurag</h1>
-</div>
+Recent B.Tech graduate from IIT Kharagpur (Industrial & Systems Engineering).
+Building backend systems and dev tools — open to full-time engineering roles.
 
-<div align="center">
-  <div align="left">
-    <h3>About Me</h3>
-    <p>
-      I'm a <b>Final Year Student</b> pursuing <b>B.Tech in Industrial & Systems Engineering</b> at <b>IIT Kharagpur</b>, passionate about building scalable backend systems and AI-powered applications.
-    </p>
-  </div>
-  
-  <div align="left">
-    <h3>Currently</h3>
-    
-- **Software Engineering Intern** at Seaker Oy
-- Deep diving into AI/ML systems and LLM pipeline development
-  </div>
-</div>
+### Tech I reach for
 
----
+- **Languages** — C++, Python, Go, TypeScript
+- **Backend** — Node.js, FastAPI, Express, gRPC
+- **Frontend** — React, Next.js, Tailwind
+- **Data** — PostgreSQL, MongoDB, Redis
+- **Infra** — Docker, AWS, Nginx, GitHub Actions
 
-### Tech Stack
+### Recent work
 
-**Languages:** `C++` `Python` `Rust` `JavaScript`
+- **[TraceScope](https://github.com/Anuragp22/TraceScope)** — Go CLI that maps PR diffs to changed functions and ranks downstream code at risk of breaking, via SCIP-resolved call graph + reverse-BFS impact traversal. Ships as a CI gate.
+- **JobVoice** ([Try](https://interview-assistant-nu.vercel.app/)) — Real-time AI interview simulator with a 3-agent voice panel, in-session RAG fact-checking, prompt-injection guards, and end-to-end OpenTelemetry tracing.
+- **SynthFlow** ([Try](https://synth-flow-ai.vercel.app/)) — Text-to-music pipeline orchestrating audio/LLM/image models on GPU with Inngest-queued inference, per-user concurrency, and atomic credit reservations.
+- **[apache/airflow#67522](https://github.com/apache/airflow/pull/67522)** — Lazy-loaded the Neo4j SDK in Airflow's Neo4j provider.
 
-**Backend:** `Node.js` `FastAPI` `Express` `gRPC` `GraphQL`
+### Achievements
 
-**Databases:** `PostgreSQL` `MongoDB` `Redis` `Supabase` `S3`
+- **Smart India Hackathon Grand Finale 2024** — Top 1.11% (Bharat Electronics)
+- **OpenSoft General Championship 2024** — Gold Medal, IIT Kharagpur
 
-**Cloud & DevOps:** `AWS (EC2, ECR, IAM)` `Docker` `Git` `Linux`
+### Reach out
 
----
-
-<div align="center">
-  <h3>GitHub Stats</h3>
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuragp22&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragp22&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-
-  <br/>
-  <img height="195px" src="https://streak-stats.demolab.com?user=Anuragp22&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragp2622/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragp2003b@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragp22)
-
-**Email:** anuragp2003b@gmail.com  
-**Phone:** +91 9121767554
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragp22&label=Profile%20Views&color=3b82f6&style=flat" alt="Profile Views" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/anuragp2622) · [Email](mailto:anuragp2622@gmail.com)
